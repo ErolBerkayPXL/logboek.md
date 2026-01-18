@@ -1,6 +1,6 @@
 
 
-Markdown
+
 # Logboek werkplekleren
 
 | Week | Datum | Opdracht / Activiteit |

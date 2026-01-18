@@ -19,20 +19,5 @@
 | 12 | 17 dec 2025 | Netwerkdag en tekenen van Netwerkschema's |
 | 13 | 07 jan 2026 | Gastspreker Back-ups, Reflectieopdrachten portfolio |
 | 14 | 14 jan 2026 | Uitleg Corda Campus, Afwerken portfolio |
-Klik op de groene knop "Commit changes..." om op te slaan.
 
-Stap 2: Maak het bestand ontwikkeling.md aan
-Klik weer op "Add file" -> "Create new file".
 
-Typ als naam: ontwikkeling.md
-
-Plak deze tekst erin:
-
-Markdown
-# Overzicht Ontwikkelingsgesprekken
-
-### Mijn keuze voor de opleiding
-Ik heb voor de opleiding Systeem- en Netwerkbeheer gekozen omdat ik na mijn 6de jaar Elektrische Installaties aan het Spectrumcollege meer de diepte in wilde gaan met techniek en computers. Het meest interessante deel van de opleiding vind ik het begrijpen van hoe netwerken achter de schermen werken. Later hoop ik te werken als systeembeheerder in een organisatie waar ik zowel met hardware als software bezig kan zijn.
-
-### Mijn beeld van dit beroep
-Na WPL1 zie ik dat dit beroep veel breder is dan alleen kabels trekken. Het gaat om security, ticketing en het continu ondersteunen van gebruikers. Het is een verantwoordelijke job waarbij je de continuïteit van een bedrijf garandeert.
